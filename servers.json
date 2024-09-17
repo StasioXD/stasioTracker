@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Oceanias",
+		"ip": "oceanias.net",
+		"type": "PC",
+		"color": "#9e17ff"
+	},
+	{
+		"name": "OcePrestige",
+		"ip": "oceprestige.net",
+		"type": "PC",
+		"color": "#61eaff"
+	},
+	{
+		"name": "PureVanilla",
+		"ip": "purevanilla.club",
+		"type": "PC",
+		"color": "#2427ff"
+	},
+	{
+		"name": "Budgie Network",
+		"ip": "budgie.network",
+		"type": "PC",
+		"color": "#24ff62"
+	},
+	{
+		"name": "Fruit Servers",
+		"ip": "mc.fruitservers.net",
+		"type": "PC",
+		"color": "#ff9924"
+	},
+	{
+		"name": "SkyMC",
+		"ip": "sky-mc.net",
+		"type": "PC",
+		"color": "#2499ff"
+	},
+	{
+		"name": "Veloria Network",
+		"ip": "Valeoria.network",
+		"type": "PC",
+		"color": "#ffc39e"
+	}
+]
